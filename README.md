@@ -13,10 +13,12 @@ QuakeLab is a lightweight web app that allows users to input key fault displacem
 
 ## 📚 Research Attribution
 
-This app builds upon findings from:
+This app builds upon data and methodology from the following publication:
 
-**"A Reexamination of Scaling Relationships for Earthquake Source Parameters With a Consideration of Potential Biases"**  
-K. R. Felzer, E. E. Brodsky, and J. R. Kanamori (2024)  
+Sarmiento A, Madugo D, Shen A, et al.
+Database for the Fault Displacement Hazard Initiative Project.
+Earthquake Spectra. 2024;0(0). https://doi.org/10.1177/87552930241262766
+
 [Read the paper →](https://journals.sagepub.com/doi/10.1177/87552930241262766)
 
 This project is being conducted under the mentorship of **Dr. Alba Padilla** as part of the SCEC Summer Research Program (NSF REU).
